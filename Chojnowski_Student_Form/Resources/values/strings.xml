@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chojnowski_Student_Form</string>
+    <string name="action_settings">Settings</string>
+	<string name="title">Student Form</string>
+	
+	<string name="sumbit">SUMBIT</string>
+	<string name="save">SAVE</string>
+	<string name="next">NEXT PAGE</string>
+	<string name="back">BACK</string>
+	<string name="close">CLOSE</string>
+	<string name="display">DISPLAY FILE</string>
+	
+	<string name="form1">Name</string>
+	<string name="form2">Surname</string>
+	<string name="form3">Student No.</string>
+	<string name="form4">E-mail</string>
+	<string name="form5">Faculity</string>
+	<string name="form6">Phone No.</string>
+</resources>
